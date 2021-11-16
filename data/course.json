@@ -1,0 +1,35 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Archaeology"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Oceanography"
+    ],
+    [
+      "Engineering",
+      "Ocean Engineering",
+      "Ocean Exploration"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "f8814c10-e957-9104-a907-62a57afbd729",
+      "e950e033-9524-c600-2449-fe5276f40a3c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Research Seminar in Deep Sea Archaeology",
+  "course_description": "STS.467 examines the intellectual foundations of archaeology in the deep sea. The course explores the current convergence of oceanography, archaeology, and engineering which allows scientists to discover, survey, and excavate shipwrecks in deep water with robots and submarines. The course seeks to address the following questions: How are new devices best employed for archaeological work? How do new capabilities (e.g. higher frequencies, higher resolution, all digital data output) change operations plans and research designs? What new technologies will be required? Area studies focus on the Aegean in Minoan times and western Sicily during Phoenician, Greek, and Roman hegemony.\n",
+  "department_numbers": [
+    "STS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "STS.467",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
